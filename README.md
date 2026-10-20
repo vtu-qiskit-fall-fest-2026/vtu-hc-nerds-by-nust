@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Nerds By NUST** · Team ID `VTU-QFF-HC-0130` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Nerds By NUST)
+[⬆ Back to Top](#nerds-by-nust)
 
 </div>
